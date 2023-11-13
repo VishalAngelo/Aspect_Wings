@@ -30,4 +30,4 @@ www.linkedin.com/in/vishal-gracian-087129a0
 
 "Embarked on a seamless voyage with British Airways, where impeccable service and comfort soared high, making my journey an unforgettable experience above the clouds."
 
-Thank you for visiting and I hope you like this version!!
+I hope you like this version!!
