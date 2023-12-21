@@ -1,7 +1,7 @@
-# Aspect_based-Sentiment_Analysis_BritishAirway_Flight_Passenger_Review
+# ABS_Analysis_BritishAirway_Flight_Passenger_Review
 
 # Overview
-Leveraging sentiment analysis in British Airways flight passenger reviews empowers the airline to refine its services, personalize passenger experiences, and elevate 
+Leveraging sentiment analysis through Aspect Based Sentiment Analysis (ABS) in British Airways flight passenger reviews empowers the airline to refine its services, personalize passenger experiences, and elevate 
 customer satisfaction, propelling the airline towards industry leadership. By embracing this transformative approach, British Airways revolutionizes its operations, 
 empowering both the airline and its passengers. This data-driven strategy significantly enhances the customer experience, optimizing both cost-effectiveness and brand loyalty, 
 thus propelling British Airways towards a future of unparalleled success.
